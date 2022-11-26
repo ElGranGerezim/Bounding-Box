@@ -13,6 +13,14 @@ public class BBSceneManager : MonoBehaviour
         SceneManager.LoadScene(levelName);
     }
 
+    public void LoadNextLevel () {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+
+    public void ReloadLevel () {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
     public void Exit () {
         Application.Quit();
     }
