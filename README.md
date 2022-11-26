@@ -17,7 +17,6 @@ Music and sound effects from [Game Dev Market](http://gamedevmarket.net)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Unity Docs](https://docs.unity.com/)
 * [Game Dev Market](http://gamedevmarket.net)
 * [Open Game Art](http://opengameart.org)
