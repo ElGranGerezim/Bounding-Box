@@ -6,8 +6,6 @@ WASD to move the camera. Space to enable "De-Bounce", where bounces slow the box
 The idea came from a desire for a platformer where you don't control the character directly. This is a simpler version than what I envision it eventually becoming,
 just a way for me to get started learning how to use Unity.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/tOx6VMF-lQQ)
 
 # Development Environment
